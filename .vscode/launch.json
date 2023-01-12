@@ -24,6 +24,20 @@
       "name": "mergeTwoSortedList",
       "skipFiles": ["<node_internals>/**"],
       "program": "${workspaceFolder}\\mergeTwoSortedList.js"
+    },
+    {
+      "type": "node",
+      "request": "launch",
+      "name": "Sqrt(x)",
+      "skipFiles": ["<node_internals>/**"],
+      "program": "${workspaceFolder}\\Sqrt(x).js"
+    },
+    {
+      "type": "node",
+      "request": "launch",
+      "name": "MergeSortedArray",
+      "skipFiles": ["<node_internals>/**"],
+      "program": "${workspaceFolder}\\MergeSortedArray.js"
     }
   ]
 }
