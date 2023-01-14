@@ -38,6 +38,13 @@
       "name": "MergeSortedArray",
       "skipFiles": ["<node_internals>/**"],
       "program": "${workspaceFolder}\\MergeSortedArray.js"
+    },
+    {
+      "type": "node",
+      "request": "launch",
+      "name": "SingleNumber",
+      "skipFiles": ["<node_internals>/**"],
+      "program": "${workspaceFolder}\\SingleNumber.js"
     }
   ]
 }
